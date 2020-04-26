@@ -141,7 +141,7 @@ body {
   background-color: #17382a !important;
 }
 .bg-danger {
-  background-color: #3d9970 !important;
+  background-color: #b2ccd2 !important;
 }
 .btn-primary,
 .btn-primary:active {
@@ -245,8 +245,8 @@ body {
 }
 .btn-danger,
 .btn-danger:active {
-  background-color: #3d9970 !important;
-  border-color: #3d9970 !important;
+  background-color: #b2ccd2 !important;
+  border-color: #b2ccd2 !important;
   color: #ffffff !important;
 }
 .btn-danger:hover,
@@ -254,14 +254,14 @@ body {
 .btn-danger.focus,
 .btn-danger.active {
   color: #ffffff !important;
-  background-color: #276248 !important;
-  border-color: #276248 !important;
+  background-color: #82acb6 !important;
+  border-color: #82acb6 !important;
 }
 .btn-danger.disabled,
 .btn-danger:disabled {
   color: #ffffff !important;
-  background-color: #276248 !important;
-  border-color: #276248 !important;
+  background-color: #82acb6 !important;
+  border-color: #82acb6 !important;
 }
 .btn-white {
   color: #333333 !important;
@@ -409,22 +409,22 @@ body {
 .btn-danger-outline,
 .btn-danger-outline:active {
   background: none;
-  border-color: #20503b;
-  color: #20503b;
+  border-color: #72a1ac;
+  color: #72a1ac;
 }
 .btn-danger-outline:hover,
 .btn-danger-outline:focus,
 .btn-danger-outline.focus,
 .btn-danger-outline.active {
   color: #ffffff;
-  background-color: #3d9970;
-  border-color: #3d9970;
+  background-color: #b2ccd2;
+  border-color: #b2ccd2;
 }
 .btn-danger-outline.disabled,
 .btn-danger-outline:disabled {
   color: #ffffff !important;
-  background-color: #3d9970 !important;
-  border-color: #3d9970 !important;
+  background-color: #b2ccd2 !important;
+  border-color: #b2ccd2 !important;
 }
 .btn-black-outline,
 .btn-black-outline:active {
@@ -476,7 +476,7 @@ body {
   color: #17382a !important;
 }
 .text-danger {
-  color: #3d9970 !important;
+  color: #b2ccd2 !important;
 }
 .text-white {
   color: #ffffff !important;
@@ -506,7 +506,7 @@ a.text-warning:focus {
 }
 a.text-danger:hover,
 a.text-danger:focus {
-  color: #20503b !important;
+  color: #72a1ac !important;
 }
 a.text-white:hover,
 a.text-white:focus {
@@ -526,7 +526,7 @@ a.text-black:focus {
   background-color: #17382a;
 }
 .alert-danger {
-  background-color: #3d9970;
+  background-color: #b2ccd2;
 }
 .mbr-section-btn a.btn:not(.btn-form) {
   border-radius: 100px;
@@ -582,7 +582,7 @@ a:hover {
 }
 .mbr-plan-header.bg-danger .mbr-plan-subtitle,
 .mbr-plan-header.bg-danger .mbr-plan-price-desc {
-  color: #87cfaf;
+  color: #ffffff;
 }
 /* Scroll to top button*/
 .scrollToTop_wraper {
@@ -1891,7 +1891,7 @@ body {
 .cid-rXihnhM24A {
   padding-top: 135px;
   padding-bottom: 135px;
-  background-image: url("../../../assets/images/colored-pencils-and-water-color-beside-picture-frame-3774088-2000x950.jpg");
+  background-image: url("../../../assets/images/person-making-clay-figures-1449934-2000x1333.jpg");
 }
 .cid-rLZvVWI71j {
   padding-top: 60px;
