@@ -541,7 +541,7 @@
               "color": "#767676"
             },
             ".mbr-text, .mbr-section-btn": {
-              "color": "#232323",
+              "color": "#4f4943",
               "text-align": "center"
             },
             "H3": {
@@ -585,7 +585,7 @@
               "color": "#767676"
             },
             ".mbr-text, .mbr-section-btn": {
-              "color": "#232323",
+              "color": "#465052",
               "text-align": "center"
             },
             "H3": {
@@ -599,7 +599,7 @@
               "color": "#767676"
             },
             "I": {
-              "color": "#232323"
+              "color": "#465052"
             }
           },
           "_name": "header2",
@@ -732,10 +732,10 @@
               "text-align": "center"
             },
             "H2": {
-              "color": "#232323"
+              "color": "#465052"
             },
             "P": {
-              "color": "#232323"
+              "color": "#465052"
             }
           },
           "_name": "features11",
@@ -789,10 +789,10 @@
               "color": "#767676"
             },
             ".mbr-text, .mbr-section-btn": {
-              "color": "#232323"
+              "color": "#465052"
             },
             "H3": {
-              "color": "#232323"
+              "color": "#465052"
             }
           },
           "_name": "header2",
