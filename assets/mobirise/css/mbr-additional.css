@@ -1836,14 +1836,6 @@ body {
 .cid-rXmmfTWVnD I {
   color: #465052;
 }
-#instagram-feed-block-7z .inst__title {
-  color: #5b686b;
-  text-align: center;
-}
-#instagram-feed-block-7z .inst__title DIV {
-  color: #767676;
-  text-align: center;
-}
 .cid-rV4Ave9i82 {
   padding-top: 135px;
   padding-bottom: 135px;
@@ -1978,6 +1970,14 @@ body {
 }
 .cid-rD1z0fl1SM LABEL {
   color: #edf1f4;
+}
+#instagram-feed-block-7z .inst__title {
+  color: #5b686b;
+  text-align: center;
+}
+#instagram-feed-block-7z .inst__title DIV {
+  color: #767676;
+  text-align: center;
 }
 .cid-rpa2leQ0Bi {
   padding-top: 45px;
