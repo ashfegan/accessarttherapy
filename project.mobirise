@@ -884,7 +884,7 @@
             "overlayColor": "#efefef",
             "overlayOpacity": 0.6
           },
-          "title": "<a href=\"https://www.instagram.com/accessarttherapy/\">\n</a><div><a href=\"https://www.instagram.com/accessarttherapy/\" target=\"_blank\" class=\"text-info\">Access Art Therapy Instagram</a></div>",
+          "title": "<a href=\"https://www.instagram.com/accessarttherapy/\">\n</a><div><a href=\"https://www.instagram.com/accessarttherapy/\" target=\"_blank\" class=\"text-secondary\">Access Art Therapy Instagram</a></div>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-md btn-primary\" href=\"#\">Show more</a>",
           "display2": "display-5",
           "display4": "display-4",
