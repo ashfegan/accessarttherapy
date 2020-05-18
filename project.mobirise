@@ -562,6 +562,9 @@
             },
             "I": {
               "color": "#465052"
+            },
+            ".mbr-text, .mbr-section-btn P": {
+              "color": "#465052"
             }
           },
           "_name": "header2",
