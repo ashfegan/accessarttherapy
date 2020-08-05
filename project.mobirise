@@ -812,49 +812,6 @@
           "_params": {}
         },
         {
-          "_params": {
-            "token": "34802123665.727bfe1.23c6474b1aa847ccbcb245a119fba8a1",
-            "showTitle": true,
-            "layoutGridRadio": false,
-            "imagesPerRowGrid": "5",
-            "rows": "1",
-            "showMoreButton": true,
-            "layoutSliderRadio": true,
-            "imagesPerRowSlider": "5",
-            "spacing": "3",
-            "fullWidth": true,
-            "paddingTop": "2",
-            "paddingBottom": "2",
-            "bgColorRadio": true,
-            "bgColor": "#ffffff",
-            "bgImageRadio": false,
-            "bgImage": "@ADDONS_PATH@/instagram-feed/instagram-feed-block/assets/instagram-background.jpg",
-            "overlay": false,
-            "overlayColor": "#efefef",
-            "overlayOpacity": 0.6
-          },
-          "title": "<a href=\"https://www.instagram.com/accessarttherapy/\">\n</a><div><a href=\"https://www.instagram.com/accessarttherapy/\" class=\"text-info\">Instagram</a></div>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-md btn-primary\" href=\"#\">Show more</a>",
-          "display2": "display-5",
-          "display4": "display-4",
-          "alias": "instagram-feed",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "instagram-feed-block",
-          "_anchor": "instagram-feed-block-7z",
-          "_styles": {
-            ".inst__title": {
-              "color": "#5b686b",
-              "text-align": "center"
-            },
-            ".inst__title DIV": {
-              "color": "#767676",
-              "text-align": "center"
-            }
-          }
-        },
-        {
           "_styles": {
             "padding-top": "(@paddingTop * 15px)",
             "padding-bottom": "(@paddingBottom * 15px)",
@@ -949,31 +906,6 @@
           "_global": true,
           "_once": true,
           "_params": {}
-        },
-        {
-          "loadsvg": "@PROJECT_PATH@/assets/images/loading.svg",
-          "_params": {
-            "paddingTop": 0,
-            "paddingBottom": 0,
-            "postToLoad": 3,
-            "facebookToken": "",
-            "facebook": "",
-            "twitter": "mobirise",
-            "youtube": "UCt_tncVAetpK5JeM8L-8jyw",
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "bgImageRadio": false,
-            "bgImage": "@ADDONS_PATH@/social-feed/feed/assets/comments_bg.jpg",
-            "overlay": true,
-            "overlayColor": "#7e9b9f",
-            "overlayOpacity": 0.6
-          },
-          "alias": "social-feed",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "feed",
-          "_anchor": "feed-81"
         }
       ]
     }
