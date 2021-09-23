@@ -130,7 +130,7 @@ body {
   border-radius: 3px;
 }
 .bg-primary {
-  background-color: #f5980d !important;
+  background-color: #11764a !important;
 }
 .bg-success {
   background-color: #11764a !important;
@@ -146,8 +146,8 @@ body {
 }
 .btn-primary,
 .btn-primary:active {
-  background-color: #f5980d !important;
-  border-color: #f5980d !important;
+  background-color: #11764a !important;
+  border-color: #11764a !important;
   color: #ffffff !important;
 }
 .btn-primary:hover,
@@ -155,14 +155,14 @@ body {
 .btn-primary.focus,
 .btn-primary.active {
   color: #ffffff !important;
-  background-color: #ae6b07 !important;
-  border-color: #ae6b07 !important;
+  background-color: #073320 !important;
+  border-color: #073320 !important;
 }
 .btn-primary.disabled,
 .btn-primary:disabled {
   color: #ffffff !important;
-  background-color: #ae6b07 !important;
-  border-color: #ae6b07 !important;
+  background-color: #073320 !important;
+  border-color: #073320 !important;
 }
 .btn-secondary,
 .btn-secondary:active {
@@ -310,22 +310,22 @@ body {
 .btn-primary-outline,
 .btn-primary-outline:active {
   background: none;
-  border-color: #965c06;
-  color: #965c06;
+  border-color: #041d12;
+  color: #041d12;
 }
 .btn-primary-outline:hover,
 .btn-primary-outline:focus,
 .btn-primary-outline.focus,
 .btn-primary-outline.active {
   color: #ffffff;
-  background-color: #f5980d;
-  border-color: #f5980d;
+  background-color: #11764a;
+  border-color: #11764a;
 }
 .btn-primary-outline.disabled,
 .btn-primary-outline:disabled {
   color: #ffffff !important;
-  background-color: #f5980d !important;
-  border-color: #f5980d !important;
+  background-color: #11764a !important;
+  border-color: #11764a !important;
 }
 .btn-secondary-outline,
 .btn-secondary-outline:active {
@@ -462,7 +462,7 @@ body {
   border-color: #ffffff;
 }
 .text-primary {
-  color: #f5980d !important;
+  color: #11764a !important;
 }
 .text-secondary {
   color: #11764a !important;
@@ -487,7 +487,7 @@ body {
 }
 a.text-primary:hover,
 a.text-primary:focus {
-  color: #965c06 !important;
+  color: #041d12 !important;
 }
 a.text-secondary:hover,
 a.text-secondary:focus {
@@ -545,8 +545,8 @@ a.text-black:focus {
   border-radius: 100px !important;
 }
 .mbr-gallery-filter li.active .btn {
-  background-color: #f5980d;
-  border-color: #f5980d;
+  background-color: #11764a;
+  border-color: #11764a;
   color: #ffffff;
 }
 .mbr-gallery-filter li.active .btn:focus {
@@ -563,11 +563,11 @@ a.text-black:focus {
 }
 a,
 a:hover {
-  color: #f5980d;
+  color: #11764a;
 }
 .mbr-plan-header.bg-primary .mbr-plan-subtitle,
 .mbr-plan-header.bg-primary .mbr-plan-price-desc {
-  color: #fdebd1;
+  color: #27e08f;
 }
 .mbr-plan-header.bg-success .mbr-plan-subtitle,
 .mbr-plan-header.bg-success .mbr-plan-price-desc {
@@ -685,7 +685,7 @@ blockquote {
   padding: 10px 0 10px 20px;
   font-size: 1.09rem;
   position: relative;
-  border-color: #f5980d;
+  border-color: #11764a;
   border-width: 3px;
 }
 ul,
@@ -773,7 +773,7 @@ pre {
   text-align: center;
   position: relative;
   border: 2px solid #c0a375;
-  border-color: #f5980d;
+  border-color: #11764a;
   color: #232323;
   cursor: pointer;
 }
@@ -784,7 +784,7 @@ pre {
 }
 .btn-social:hover {
   color: #fff;
-  background: #f5980d;
+  background: #11764a;
 }
 .btn-social + .btn {
   margin-left: .1rem;
@@ -792,11 +792,11 @@ pre {
 /* Footer */
 .mbr-footer-content li::before,
 .mbr-footer .mbr-contacts li::before {
-  background: #f5980d;
+  background: #11764a;
 }
 .mbr-footer-content li a:hover,
 .mbr-footer .mbr-contacts li a:hover {
-  color: #f5980d;
+  color: #11764a;
 }
 .footer3 input[type="email"],
 .footer4 input[type="email"] {
@@ -1535,7 +1535,7 @@ body {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #14965d;
+  background-color: #e48d0b;
 }
 .cid-rp3MdeWxNC button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -1884,7 +1884,7 @@ body {
 .cid-rD1z0fl1SM {
   padding-top: 45px;
   padding-bottom: 45px;
-  background-image: url("../../../assets/images/mbr-10-1920x1276.jpg");
+  background-image: url("../../../assets/images/mbr-11-1920x1276.jpg");
 }
 .cid-rD1z0fl1SM .title {
   margin-bottom: 2rem;
@@ -1915,19 +1915,6 @@ body {
 }
 .cid-rD1z0fl1SM LABEL {
   color: #edf1f4;
-}
-.cid-sJQPnqXwzM {
-  padding-top: 60px;
-  padding-bottom: 60px;
-  background: #ffffff;
-}
-.cid-sJQPnqXwzM .video-block {
-  margin: auto;
-}
-@media (max-width: 768px) {
-  .cid-sJQPnqXwzM .video-block {
-    width: 100% !important;
-  }
 }
 .cid-sn6vJ4rfRo {
   padding-top: 60px;
