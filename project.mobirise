@@ -52,9 +52,9 @@
       }
     ],
     "uniqCompNum": 299,
-    "versionPublish": "5.3.5",
+    "versionPublish": "5.6.8",
     "screenshot": "screenshot.png",
-    "favicon": false,
+    "favicon": "",
     "noImageResize": "",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
     "robotsSwitcher": "on",
@@ -68,9 +68,7 @@
       "underlineLink": false,
       "text": "Privacy Policy"
     },
-    "imageResize": false,
-    "cookiesAlert": false,
-    "mbrsiteDomain": "yed0umembb"
+    "imageResize": true
   },
   "pages": {
     "index.html": {
