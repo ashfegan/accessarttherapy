@@ -1105,7 +1105,7 @@ section.lazy-placeholder:after {
 }
 .cid-tfEQ6QIZ0s {
   padding-top: 90px;
-  padding-bottom: 90px;
+  padding-bottom: 0px;
   background-color: #ffffff;
 }
 .cid-tfEQ6QIZ0s h2 {
@@ -1165,70 +1165,62 @@ section.lazy-placeholder:after {
     font-size: 40px !important;
   }
 }
-.cid-rV4Ave9i82 {
-  background-image: url("../../../assets/images/chairs-2000x2000.jpg");
+.cid-tmAyH89T4t {
+  background: #ffffff;
+  padding-top: 0px;
+  padding-bottom: 0px;
 }
-.cid-sJQKjP9nx1 {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #f9f9f9;
+.cid-tmAyH89T4t .image-block {
+  margin: auto;
 }
-.cid-sJQKjP9nx1 h2 {
-  text-align: left;
+.cid-tmAyH89T4t .mbr-figure {
+  margin: 0 auto;
 }
-.cid-sJQKjP9nx1 h4 {
-  text-align: left;
-  font-weight: 500;
+.cid-tmAyH89T4t figcaption {
+  position: relative;
 }
-.cid-sJQKjP9nx1 p {
-  color: #767676;
-  text-align: left;
+.cid-tmAyH89T4t figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
 }
-.cid-sJQKjP9nx1 .aside-content {
-  flex-basis: 100%;
-}
-.cid-sJQKjP9nx1 .block-content {
-  display: -webkit-flex;
-  flex-direction: column;
-  -webkit-flex-direction: column;
-  word-break: break-word;
-}
-.cid-sJQKjP9nx1 .media {
-  margin: initial;
-  align-items: center;
-}
-.cid-sJQKjP9nx1 .mbr-figure {
-  align-self: flex-start;
-  -webkit-align-self: flex-start;
-  -webkit-flex-shrink: 0;
-  flex-shrink: 0;
-}
-.cid-sJQKjP9nx1 .card-img {
-  padding-right: 2rem;
-  width: auto;
-}
-.cid-sJQKjP9nx1 .card-img span {
-  font-size: 72px;
-  color: #707070;
-}
-@media (min-width: 992px) {
-  .cid-sJQKjP9nx1 .mbr-figure {
-    padding-right: 4rem;
+@media (max-width: 768px) {
+  .cid-tmAyH89T4t .image-block {
+    width: 100% !important;
   }
+}
+.cid-tmAA31vDSc {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #f3f4f6;
+}
+.cid-tmAA31vDSc .testimonial-text {
+  font-style: italic;
+  color: #676767;
+  font-weight: 300;
+}
+.cid-tmAA31vDSc .mbr-author-name {
+  font-weight: bold;
+  color: #232;
+}
+.cid-tmAA31vDSc .mbr-author-desc {
+  color: #232;
 }
 @media (max-width: 991px) {
-  .cid-sJQKjP9nx1 .mbr-figure {
-    padding-right: 0;
-    padding-bottom: 1rem;
-    margin-bottom: 2rem;
+  .cid-tmAA31vDSc .mbr-figure,
+  .cid-tmAA31vDSc img {
+    max-height: 300px;
+    width: auto;
+    margin: auto;
   }
 }
-@media (max-width: 300px) {
-  .cid-sJQKjP9nx1 .card-img span {
-    font-size: 40px !important;
-  }
+.cid-tmAAZNqHPC {
+  padding-top: 60px;
+  padding-bottom: 30px;
+  background-color: #f7f3e3;
 }
-.cid-sJQKjP9nx1 P {
+.cid-tmAAZNqHPC .mbr-text,
+.cid-tmAAZNqHPC blockquote {
   color: #767676;
 }
 .cid-rTxj65X0sU {
