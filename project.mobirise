@@ -28,13 +28,13 @@
         "isScrollToTopButton": false
       },
       "additionalSetColors": [
+        "#85a5a2",
         "#af7909",
         "#c48708",
         "#074b44",
         "#a37b54",
         "#268f84",
-        "#dabc57",
-        "#f47a70"
+        "#dabc57"
       ]
     },
     "path": "@PROJECT_PATH@",
@@ -532,7 +532,7 @@
               "text-align": "left"
             },
             ".mbr-text": {
-              "color": "#b2ccd2"
+              "color": "#85a5a2"
             }
           },
           "_name": "content1",
