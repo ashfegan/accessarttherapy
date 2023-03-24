@@ -11,11 +11,11 @@ body {
 }
 .display-2 {
   font-family: 'Dancing Script', handwriting;
-  font-size: 2.5rem;
+  font-size: 3rem;
   font-display: swap;
 }
 .display-2 > .mbr-iconfont {
-  font-size: 4rem;
+  font-size: 4.8rem;
 }
 .display-4 {
   font-family: 'Adamina', serif;
@@ -53,9 +53,9 @@ body {
     line-height: calc( 1.4 * (1.665rem + (2.9 - 1.665) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-2 {
-    font-size: 2rem;
-    font-size: calc( 1.525rem + (2.5 - 1.525) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (1.525rem + (2.5 - 1.525) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 2.4rem;
+    font-size: calc( 1.7rem + (3 - 1.7) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (1.7rem + (3 - 1.7) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-4 {
     font-size: 0.8rem;
@@ -1061,11 +1061,11 @@ section.lazy-placeholder:after {
 }
 .cid-trxymsyUw2 {
   padding-top: 120px;
-  padding-bottom: 0px;
+  padding-bottom: 30px;
   background-color: #ffffff;
 }
 .cid-trxymsyUw2 .mbr-section-subtitle {
-  color: #906710;
+  color: #5b686b;
   text-align: left;
 }
 .cid-trxymsyUw2 DIV {
@@ -1079,65 +1079,9 @@ section.lazy-placeholder:after {
 .cid-trxymsyUw2 H2 {
   color: #ffffff;
 }
-.cid-twBdPYdfY0 {
-  padding-top: 0px;
-  padding-bottom: 30px;
-  background-color: #ffffff;
-}
-.cid-twBdPYdfY0 .mbr-section-subtitle {
-  color: #906710;
-  text-align: left;
-}
-.cid-twBdPYdfY0 DIV {
-  color: #465052;
-  text-align: left;
-}
-.cid-twBdPYdfY0 .mbr-section-subtitle DIV {
-  color: #143b2a;
-  text-align: center;
-}
-.cid-twBdPYdfY0 H2 {
-  color: #82786e;
-  text-align: left;
-}
-.cid-trxypWAaSZ {
-  padding-top: 30px;
-  padding-bottom: 45px;
-  background-color: #074b44;
-}
-.cid-trxypWAaSZ .title {
-  margin-bottom: 2rem;
-}
-.cid-trxypWAaSZ .mbr-section-subtitle {
-  color: #edf1f4;
-  text-align: left;
-}
-.cid-trxypWAaSZ a:not([href]):not([tabindex]) {
-  color: #fff;
-  border-radius: 3px;
-}
-.cid-trxypWAaSZ a.btn-white:not([href]):not([tabindex]) {
-  color: #333;
-}
-.cid-trxypWAaSZ .multi-horizontal {
-  flex-grow: 1;
-  -webkit-flex-grow: 1;
-  max-width: 100%;
-}
-.cid-trxypWAaSZ .input-group-btn {
-  display: block;
-  text-align: center;
-}
-.cid-trxypWAaSZ H2 {
-  color: #caba85;
-  text-align: left;
-}
-.cid-trxypWAaSZ LABEL {
-  color: #edf1f4;
-}
 .cid-trxG4ze6Bf {
   background: #ffffff;
-  padding-top: 60px;
+  padding-top: 0px;
   padding-bottom: 60px;
 }
 .cid-trxG4ze6Bf .image-block {
@@ -1496,7 +1440,7 @@ section.lazy-placeholder:after {
 .cid-trxHDefLgR {
   padding-top: 30px;
   padding-bottom: 45px;
-  background-color: #56071b;
+  background-color: #092203;
 }
 .cid-trxHDefLgR .title {
   margin-bottom: 2rem;
@@ -1522,7 +1466,7 @@ section.lazy-placeholder:after {
   text-align: center;
 }
 .cid-trxHDefLgR H2 {
-  color: #caba85;
+  color: #ffffff;
   text-align: left;
 }
 .cid-trxHDefLgR LABEL {
@@ -1598,13 +1542,13 @@ section.lazy-placeholder:after {
   color: #767676;
 }
 .cid-trpznz04JD .navbar {
-  background: #7f1933;
+  background: #efefef;
   transition: none;
   min-height: 77px;
   padding: .5rem 0;
 }
 .cid-trpznz04JD .navbar-dropdown.bg-color.transparent.opened {
-  background: #7f1933;
+  background: #efefef;
 }
 .cid-trpznz04JD a {
   font-style: normal;
@@ -1688,7 +1632,7 @@ section.lazy-placeholder:after {
   padding-bottom: 0;
 }
 .cid-trpznz04JD .dropdown .dropdown-menu {
-  background: #7f1933;
+  background: #efefef;
   display: none;
   position: absolute;
   min-width: 5rem;
@@ -2393,13 +2337,13 @@ section.lazy-placeholder:after {
   color: #edf1f4;
 }
 .cid-trAbEXeHD6 .navbar {
-  background: #7f1933;
+  background: #efefef;
   transition: none;
   min-height: 77px;
   padding: .5rem 0;
 }
 .cid-trAbEXeHD6 .navbar-dropdown.bg-color.transparent.opened {
-  background: #7f1933;
+  background: #efefef;
 }
 .cid-trAbEXeHD6 a {
   font-style: normal;
@@ -2483,7 +2427,7 @@ section.lazy-placeholder:after {
   padding-bottom: 0;
 }
 .cid-trAbEXeHD6 .dropdown .dropdown-menu {
-  background: #7f1933;
+  background: #efefef;
   display: none;
   position: absolute;
   min-width: 5rem;
