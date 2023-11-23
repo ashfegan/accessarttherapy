@@ -2,15 +2,15 @@ body {
   font-family: Rubik;
 }
 .display-1 {
-  font-family: 'Montserrat', sans-serif;
-  font-size: 4rem;
+  font-family: 'Shadows Into Light', handwriting;
+  font-size: 5rem;
   font-display: swap;
 }
 .display-1 > .mbr-iconfont {
-  font-size: 6.4rem;
+  font-size: 8rem;
 }
 .display-2 {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Shadows Into Light', handwriting;
   font-size: 3rem;
   font-display: swap;
 }
@@ -48,9 +48,9 @@ body {
 /* 0.65 - min scale variable, may vary */
 @media (max-width: 768px) {
   .display-1 {
-    font-size: 3.2rem;
-    font-size: calc( 2.05rem + (4 - 2.05) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (2.05rem + (4 - 2.05) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 4rem;
+    font-size: calc( 2.4rem + (5 - 2.4) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (2.4rem + (5 - 2.4) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-2 {
     font-size: 2.4rem;
@@ -92,13 +92,13 @@ body {
   background-color: #e6760b !important;
 }
 .bg-info {
-  background-color: #7f1933 !important;
+  background-color: #1a2853 !important;
 }
 .bg-warning {
   background-color: #268f84 !important;
 }
 .bg-danger {
-  background-color: #a37b54 !important;
+  background-color: #1d5b0e !important;
 }
 .btn-primary,
 .btn-primary:active {
@@ -142,8 +142,8 @@ body {
 }
 .btn-info,
 .btn-info:active {
-  background-color: #7f1933 !important;
-  border-color: #7f1933 !important;
+  background-color: #1a2853 !important;
+  border-color: #1a2853 !important;
   color: #ffffff !important;
 }
 .btn-info:hover,
@@ -151,14 +151,14 @@ body {
 .btn-info.focus,
 .btn-info.active {
   color: #ffffff !important;
-  background-color: #3f0c19 !important;
-  border-color: #3f0c19 !important;
+  background-color: #080c19 !important;
+  border-color: #080c19 !important;
 }
 .btn-info.disabled,
 .btn-info:disabled {
   color: #ffffff !important;
-  background-color: #3f0c19 !important;
-  border-color: #3f0c19 !important;
+  background-color: #080c19 !important;
+  border-color: #080c19 !important;
 }
 .btn-success,
 .btn-success:active {
@@ -202,8 +202,8 @@ body {
 }
 .btn-danger,
 .btn-danger:active {
-  background-color: #a37b54 !important;
-  border-color: #a37b54 !important;
+  background-color: #1d5b0e !important;
+  border-color: #1d5b0e !important;
   color: #ffffff !important;
 }
 .btn-danger:hover,
@@ -211,14 +211,14 @@ body {
 .btn-danger.focus,
 .btn-danger.active {
   color: #ffffff !important;
-  background-color: #71553a !important;
-  border-color: #71553a !important;
+  background-color: #081904 !important;
+  border-color: #081904 !important;
 }
 .btn-danger.disabled,
 .btn-danger:disabled {
   color: #ffffff !important;
-  background-color: #71553a !important;
-  border-color: #71553a !important;
+  background-color: #081904 !important;
+  border-color: #081904 !important;
 }
 .btn-white {
   color: #333333 !important;
@@ -306,22 +306,22 @@ body {
 .btn-info-outline,
 .btn-info-outline:active {
   background: none;
-  border-color: #2a0811;
-  color: #2a0811;
+  border-color: #020305;
+  color: #020305;
 }
 .btn-info-outline:hover,
 .btn-info-outline:focus,
 .btn-info-outline.focus,
 .btn-info-outline.active {
   color: #ffffff;
-  background-color: #7f1933;
-  border-color: #7f1933;
+  background-color: #1a2853;
+  border-color: #1a2853;
 }
 .btn-info-outline.disabled,
 .btn-info-outline:disabled {
   color: #ffffff !important;
-  background-color: #7f1933 !important;
-  border-color: #7f1933 !important;
+  background-color: #1a2853 !important;
+  border-color: #1a2853 !important;
 }
 .btn-success-outline,
 .btn-success-outline:active {
@@ -366,22 +366,22 @@ body {
 .btn-danger-outline,
 .btn-danger-outline:active {
   background: none;
-  border-color: #604831;
-  color: #604831;
+  border-color: #010300;
+  color: #010300;
 }
 .btn-danger-outline:hover,
 .btn-danger-outline:focus,
 .btn-danger-outline.focus,
 .btn-danger-outline.active {
   color: #ffffff;
-  background-color: #a37b54;
-  border-color: #a37b54;
+  background-color: #1d5b0e;
+  border-color: #1d5b0e;
 }
 .btn-danger-outline.disabled,
 .btn-danger-outline:disabled {
   color: #ffffff !important;
-  background-color: #a37b54 !important;
-  border-color: #a37b54 !important;
+  background-color: #1d5b0e !important;
+  border-color: #1d5b0e !important;
 }
 .btn-black-outline,
 .btn-black-outline:active {
@@ -427,13 +427,13 @@ body {
   color: #e6760b !important;
 }
 .text-info {
-  color: #7f1933 !important;
+  color: #1a2853 !important;
 }
 .text-warning {
   color: #268f84 !important;
 }
 .text-danger {
-  color: #a37b54 !important;
+  color: #1d5b0e !important;
 }
 .text-white {
   color: #ffffff !important;
@@ -455,7 +455,7 @@ a.text-success:focus {
 }
 a.text-info:hover,
 a.text-info:focus {
-  color: #2a0811 !important;
+  color: #020305 !important;
 }
 a.text-warning:hover,
 a.text-warning:focus {
@@ -463,7 +463,7 @@ a.text-warning:focus {
 }
 a.text-danger:hover,
 a.text-danger:focus {
-  color: #604831 !important;
+  color: #010300 !important;
 }
 a.text-white:hover,
 a.text-white:focus {
@@ -477,13 +477,13 @@ a.text-black:focus {
   background-color: #70c770;
 }
 .alert-info {
-  background-color: #7f1933;
+  background-color: #1a2853;
 }
 .alert-warning {
   background-color: #268f84;
 }
 .alert-danger {
-  background-color: #a37b54;
+  background-color: #1d5b0e;
 }
 .mbr-section-btn a.btn:not(.btn-form) {
   border-radius: 100px;
@@ -525,7 +525,7 @@ a:hover {
 }
 .mbr-plan-header.bg-info .mbr-plan-subtitle,
 .mbr-plan-header.bg-info .mbr-plan-price-desc {
-  color: #d93e66;
+  color: #7c92d6;
 }
 .mbr-plan-header.bg-warning .mbr-plan-subtitle,
 .mbr-plan-header.bg-warning .mbr-plan-price-desc {
@@ -533,7 +533,7 @@ a:hover {
 }
 .mbr-plan-header.bg-danger .mbr-plan-subtitle,
 .mbr-plan-header.bg-danger .mbr-plan-price-desc {
-  color: #d1bba6;
+  color: #40ca1f;
 }
 /* Scroll to top button*/
 .scrollToTop_wraper {
@@ -1085,7 +1085,7 @@ section.lazy-placeholder:after {
 }
 .cid-tWqk7MvRYg H3 {
   text-align: center;
-  color: #232323;
+  color: #465052;
 }
 .cid-trxG4ze6Bf {
   background: #ffffff;
@@ -1480,7 +1480,7 @@ section.lazy-placeholder:after {
 .cid-trxHDefLgR {
   padding-top: 30px;
   padding-bottom: 45px;
-  background-color: #1d5b0e;
+  background-color: #196108;
 }
 .cid-trxHDefLgR .title {
   margin-bottom: 2rem;
