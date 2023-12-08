@@ -3,11 +3,11 @@ body {
 }
 .display-1 {
   font-family: 'Shadows Into Light', handwriting;
-  font-size: 4rem;
+  font-size: 4.1rem;
   font-display: swap;
 }
 .display-1 > .mbr-iconfont {
-  font-size: 6.4rem;
+  font-size: 6.56rem;
 }
 .display-2 {
   font-family: 'Shadows Into Light', handwriting;
@@ -48,9 +48,9 @@ body {
 /* 0.65 - min scale variable, may vary */
 @media (max-width: 768px) {
   .display-1 {
-    font-size: 3.2rem;
-    font-size: calc( 2.05rem + (4 - 2.05) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (2.05rem + (4 - 2.05) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 3.28rem;
+    font-size: calc( 2.085rem + (4.1 - 2.085) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (2.085rem + (4.1 - 2.085) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-2 {
     font-size: 1.2rem;
