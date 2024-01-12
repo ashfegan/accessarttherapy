@@ -18,7 +18,7 @@ body {
   font-size: 2.56rem;
 }
 .display-4 {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'PT Sans', sans-serif;
   font-size: 1rem;
   font-display: swap;
 }
@@ -26,7 +26,7 @@ body {
   font-size: 1.6rem;
 }
 .display-5 {
-  font-family: 'Patrick Hand SC', handwriting;
+  font-family: 'Sometype Mono', monospace;
   font-size: 2.2rem;
   font-display: swap;
 }
@@ -34,7 +34,7 @@ body {
   font-size: 3.52rem;
 }
 .display-7 {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'PT Sans', sans-serif;
   font-size: 1.2rem;
   font-display: swap;
 }
@@ -526,7 +526,7 @@ a:hover {
   display: none;
 }
 .form-control {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'PT Sans', sans-serif;
   font-size: 1.2rem;
   font-display: swap;
 }
@@ -620,9 +620,9 @@ section.lazy-placeholder:after {
   opacity: 0.3;
 }
 .cid-u1651wfhA7 {
-  padding-top: 105px;
+  padding-top: 75px;
   padding-bottom: 0px;
-  background-color: #efefef;
+  background-color: #ffffff;
 }
 .cid-u1651wfhA7 .testimonial-text {
   font-style: italic;
@@ -1246,8 +1246,8 @@ section.lazy-placeholder:after {
   color: #232323;
 }
 .cid-u13pC1mBea {
-  padding-top: 90px;
-  padding-bottom: 90px;
+  padding-top: 60px;
+  padding-bottom: 60px;
   background-image: url("../../../assets/images/website-3-2000x1127.jpeg");
 }
 .cid-u13pC1mBea .media-container-column {
@@ -1373,8 +1373,8 @@ section.lazy-placeholder:after {
   color: #232323;
 }
 .cid-u13s43tBcn {
-  padding-top: 90px;
-  padding-bottom: 90px;
+  padding-top: 60px;
+  padding-bottom: 60px;
   background-image: url("../../../assets/images/website-9-952x1269.jpg");
 }
 .cid-u13s43tBcn .media-container-column {
@@ -1469,7 +1469,7 @@ section.lazy-placeholder:after {
 .cid-u13pYCsK1T {
   padding-top: 60px;
   padding-bottom: 60px;
-  background-color: #ffe5da;
+  background-color: #e4dab6;
 }
 .cid-u13pYCsK1T H1 {
   color: #767676;
@@ -1497,7 +1497,7 @@ section.lazy-placeholder:after {
   color: #232323;
 }
 .cid-u13js5sHz8 {
-  background-color: #ffe5da;
+  background-image: url("../../../assets/images/image144301-1200x1500.jpg");
 }
 .cid-u13js5sHz8 .form-control,
 .cid-u13js5sHz8 .form-control:focus {
