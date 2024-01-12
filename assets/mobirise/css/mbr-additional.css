@@ -10,12 +10,12 @@ body {
   font-size: 6.4rem;
 }
 .display-2 {
-  font-family: 'Patrick Hand SC', handwriting;
-  font-size: 1.8rem;
+  font-family: 'Sometype Mono', monospace;
+  font-size: 1.6rem;
   font-display: swap;
 }
 .display-2 > .mbr-iconfont {
-  font-size: 2.88rem;
+  font-size: 2.56rem;
 }
 .display-4 {
   font-family: 'Montserrat', sans-serif;
@@ -53,9 +53,9 @@ body {
     line-height: calc( 1.4 * (2.05rem + (4 - 2.05) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-2 {
-    font-size: 1.44rem;
-    font-size: calc( 1.28rem + (1.8 - 1.28) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (1.28rem + (1.8 - 1.28) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 1.28rem;
+    font-size: calc( 1.21rem + (1.6 - 1.21) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (1.21rem + (1.6 - 1.21) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-4 {
     font-size: 0.8rem;
@@ -735,7 +735,7 @@ section.lazy-placeholder:after {
 .cid-u13a0xYyQD {
   padding-top: 60px;
   padding-bottom: 0px;
-  background-color: #ffe5da;
+  background-color: #ffffff;
 }
 .cid-u13a0xYyQD P {
   color: #767676;
@@ -763,46 +763,13 @@ section.lazy-placeholder:after {
 .cid-u133OCYwDB .card-title {
   color: #232323;
 }
-.cid-u162kcOWLy {
+.cid-u18GdoRSnG {
   padding-top: 0px;
-  padding-bottom: 0px;
+  padding-bottom: 90px;
   background-color: #ffffff;
 }
-.cid-u162kcOWLy .card {
-  align-self: stretch;
-}
-.cid-u162kcOWLy .card-box {
-  height: 100%;
-  background-color: #ffffff;
-  padding: 2rem;
-}
-.cid-u162kcOWLy h4 {
-  font-weight: 500;
-  margin-bottom: 0;
-  text-align: left;
-}
-.cid-u162kcOWLy p {
+.cid-u18GdoRSnG P {
   color: #767676;
-  text-align: left;
-}
-.cid-u162kcOWLy .card-wrapper {
-  position: relative;
-  box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
-  transition: box-shadow 0.3s;
-}
-.cid-u162kcOWLy .card-wrapper:hover {
-  box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
-  transition: box-shadow 0.3s;
-}
-.cid-u162kcOWLy .card-img {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  overflow: hidden;
-}
-.cid-u162kcOWLy P {
-  color: #232323;
 }
 .cid-u15JOrYPAu {
   padding-top: 60px;
