@@ -1469,7 +1469,7 @@ section.lazy-placeholder:after {
 .cid-u13pYCsK1T {
   padding-top: 60px;
   padding-bottom: 60px;
-  background-color: #e7e1d5;
+  background-color: #ffe5da;
 }
 .cid-u13pYCsK1T H1 {
   color: #767676;
@@ -1502,11 +1502,11 @@ section.lazy-placeholder:after {
 .cid-u13js5sHz8 .form-control,
 .cid-u13js5sHz8 .form-control:focus {
   background: #ffffff;
-  border: 1px solid #ffffff;
+  border: 1px solid #767676;
 }
 .cid-u13js5sHz8 .form-container {
   transition: all .2s;
-  border: 1px solid #ffffff;
+  border: 1px solid #767676;
   padding: 1rem;
 }
 .cid-u13js5sHz8 textarea.form-control {
@@ -1548,7 +1548,7 @@ section.lazy-placeholder:after {
 .cid-u0UwsVypfD {
   padding-top: 30px;
   padding-bottom: 30px;
-  background-image: url("../../../assets/images/image144301-1200x1500.jpeg");
+  background: linear-gradient(0deg, #ffe5da, #ffffff);
 }
 .cid-u0UwsVypfD .mbr-iconfont-social {
   font-size: 32px;
