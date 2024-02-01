@@ -162,9 +162,9 @@
     "cookiesAlert": false,
     "gdpr": {
       "colorText": "#a7a7a7",
-      "colorLink": "#f98329",
+      "colorLink": "#767676",
       "underlineLink": true,
-      "text": "By continuing you agree to my <a href='terms.html'>Terms of Service</a> and <a href='policy.html'>Privacy Policy</a>."
+      "text": "By continuing you agree to my <a href='terms.html'> <a href='policy.html'>Privacy Policy</a>."
     },
     "publishChangesOnly": false
   },
