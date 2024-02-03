@@ -28,13 +28,13 @@
         "isScrollToTopButton": true
       },
       "additionalSetColors": [
+        "#556ad4",
+        "#460da1",
         "#086684",
         "#f67523",
         "#d66ffc",
         "#8cc0ff",
-        "#fb9a5c",
-        "#014d39",
-        "#ff8cbc"
+        "#fb9a5c"
       ]
     },
     "path": "@PROJECT_PATH@",
@@ -1106,15 +1106,15 @@
             },
             ".tag1": {
               "background": "@cardBg1",
-              "color": "#502274"
+              "color": "#f7ed4a"
             },
             ".tag2": {
               "background": "@cardBg2",
-              "color": "#ffd7ef"
+              "color": "#073b4c"
             },
             ".tag3": {
               "background": "@cardBg3",
-              "color": "#232323",
+              "color": "#073b4c",
               "text-align": "right"
             },
             ".tag4": {
@@ -1137,7 +1137,7 @@
               "color": "#ffffff"
             },
             ".card-title3, .social-row": {
-              "color": "#086684"
+              "color": "#073b4c"
             },
             ".card-title4, .social-row": {
               "color": "#f67523"
@@ -1159,16 +1159,16 @@
               "color": "#232323"
             },
             ".card-title1, .social-row": {
-              "color": "#fb9a5c"
+              "color": "#f7ed4a"
             },
             ".card-text2, .card2 .mbr-section-btn": {
               "color": "#073b4c"
             },
             ".card-text1, .card1 .mbr-section-btn": {
-              "color": "#000000"
+              "color": "#f7ed4a"
             },
             ".card-text3, .card3 .mbr-section-btn": {
-              "color": "#086684"
+              "color": "#073b4c"
             },
             ".card-text4, .card4 .mbr-section-btn": {
               "color": "#f67523"
