@@ -1119,7 +1119,7 @@
             },
             ".tag3": {
               "background": "@cardBg3",
-              "color": "#f2cea7",
+              "color": "#073b4c",
               "text-align": "right"
             },
             ".tag4": {
