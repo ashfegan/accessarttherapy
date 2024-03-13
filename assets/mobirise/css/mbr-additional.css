@@ -1516,6 +1516,51 @@ section.lazy-placeholder:after {
 .cid-u6WA3iROIl .content-head {
   max-width: 800px;
 }
+.cid-u6WycKt9YG {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  background-color: #073b4c;
+}
+.cid-u6WycKt9YG .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-u6WycKt9YG .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+@media (max-width: 767px) {
+  .cid-u6WycKt9YG .card-content-text {
+    padding: 0 1.5rem 1.5rem 1.5rem;
+  }
+}
+@media (min-width: 768px) {
+  .cid-u6WycKt9YG .card-content-text {
+    padding: 0 2.25rem 2.25rem 2.25rem;
+  }
+}
+@media (min-width: 992px) {
+  .cid-u6WycKt9YG .card-content-text {
+    padding: 1rem 4rem 4rem 4rem;
+  }
+}
+.cid-u6WycKt9YG .card-wrapper {
+  background: #ffffff;
+}
+.cid-u6WycKt9YG .mbr-text,
+.cid-u6WycKt9YG .mbr-section-btn {
+  color: #000000;
+  text-align: left;
+}
+.cid-u6WycKt9YG .card-title,
+.cid-u6WycKt9YG .card-box {
+  text-align: left;
+  color: #000000;
+}
 .cid-u6WLopfuFw {
   padding-top: 6rem;
   padding-bottom: 6rem;
@@ -1624,51 +1669,6 @@ section.lazy-placeholder:after {
 }
 .cid-u14r2KxBED H3 {
   color: #232323;
-}
-.cid-u6WycKt9YG {
-  padding-top: 5rem;
-  padding-bottom: 5rem;
-  background-color: #073b4c;
-}
-.cid-u6WycKt9YG .mbr-fallback-image.disabled {
-  display: none;
-}
-.cid-u6WycKt9YG .mbr-fallback-image {
-  display: block;
-  background-size: cover;
-  background-position: center center;
-  width: 100%;
-  height: 100%;
-  position: absolute;
-  top: 0;
-}
-@media (max-width: 767px) {
-  .cid-u6WycKt9YG .card-content-text {
-    padding: 0 1.5rem 1.5rem 1.5rem;
-  }
-}
-@media (min-width: 768px) {
-  .cid-u6WycKt9YG .card-content-text {
-    padding: 0 2.25rem 2.25rem 2.25rem;
-  }
-}
-@media (min-width: 992px) {
-  .cid-u6WycKt9YG .card-content-text {
-    padding: 1rem 4rem 4rem 4rem;
-  }
-}
-.cid-u6WycKt9YG .card-wrapper {
-  background: #ffffff;
-}
-.cid-u6WycKt9YG .mbr-text,
-.cid-u6WycKt9YG .mbr-section-btn {
-  color: #000000;
-  text-align: left;
-}
-.cid-u6WycKt9YG .card-title,
-.cid-u6WycKt9YG .card-box {
-  text-align: left;
-  color: #000000;
 }
 .cid-u13js5sHz8 {
   background-color: #073b4c;
