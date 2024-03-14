@@ -163,16 +163,11 @@
     "sitemapSwitcher": "on",
     "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-165249837-1\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-165249837-1');\r\n</script>\r\n\r\n<script data-ad-client=\"ca-pub-3059864741208481\" async src=\"https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js\"></script>",
     "imageResize": true,
-    "mbrsiteDomain": "xugbmycirg",
+    "mbrsiteDomain": "o4irwnykex",
     "publishChangesOnly": false,
     "usedWebp": false,
     "cookiesAlert": false,
-    "gdpr": {
-      "colorText": "#a7a7a7",
-      "colorLink": "#149dcc",
-      "underlineLink": false,
-      "text": "By continuing you agree to our <a href='policy.html'>Privacy Policy</a 'page5.html'>."
-    }
+    "gdpr": false
   },
   "pages": {
     "index.html": {
