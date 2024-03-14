@@ -151,7 +151,7 @@
         "url": "https://fonts.googleapis.com/css?family=Abel:400"
       }
     ],
-    "uniqCompNum": 615,
+    "uniqCompNum": 631,
     "versionPublish": "5.9.13",
     "screenshot": "screenshot.png",
     "favicon": false,
@@ -163,12 +163,12 @@
     "sitemapSwitcher": "on",
     "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-165249837-1\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-165249837-1');\r\n</script>\r\n\r\n<script data-ad-client=\"ca-pub-3059864741208481\" async src=\"https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js\"></script>",
     "imageResize": true,
-    "mbrsiteDomain": "crjodjavfm",
+    "mbrsiteDomain": "gufuhaoo1x",
     "gdpr": {
       "colorText": "#efefef",
       "colorLink": "#efefef",
       "underlineLink": true,
-      "text": "By continuing you agree to my <a href='terms.html'> <a href='policy.page5.html'>Privacy Policy</a>."
+      "text": "By continuing you agree to my <a href='terms.html'> <page5.html'>Privacy Policy</a>."
     },
     "publishChangesOnly": false,
     "usedWebp": false,
@@ -1889,7 +1889,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": "7",
+        "order": "8",
         "meta_image": "@PROJECT_PATH@/assets/images/wool-1170x1169.jpg"
       },
       "components": [
@@ -3291,7 +3291,7 @@
       "settings": {
         "meta_descr": "Aisling Fegan (she / her) is a HCPC registered art psychotherapist and group analytic psychotherapist working online. Based in Newark-on-Trent, she offers online therapy , psychodynamic psychotherapy, group therapy and art therapy | ONLINE | United Kingdom & Ireland | Northern Ireland  |  psychotherapy  |  group analysis  | art therapy  | social justice  | community  |  lived experienced  |  anti-oppression  | low cost therapy  |  British Association of Art Therapy  | Depression  |  Burnout  | Anxiety  | Irish Artist  | Newark-on-Trent  | Nottingham London  | Dublin  | Wicklow  | Kells, Co. Meath  | Meath Galway  | Swiss Cottage  | Croydon  | Clapham  | North Kensington  | Bray Co. Wicklow  | Group Analysis India",
         "title": "New website coming soon",
-        "order": "6"
+        "order": "7"
       },
       "components": [
         {
@@ -4193,7 +4193,7 @@
         "footer_custom": "",
         "html_before": "",
         "meta_image": "@PROJECT_PATH@/assets/images/website-image-2-2000x1500.jpg",
-        "order": "5"
+        "order": "6"
       },
       "components": [
         {
@@ -5801,7 +5801,7 @@
         "footer_custom": "",
         "html_before": "",
         "meta_image": "@PROJECT_PATH@/assets/images/nepal-2000x2000.jpeg",
-        "order": "4"
+        "order": "5"
       },
       "components": [
         {
@@ -7412,7 +7412,7 @@
       "settings": {
         "meta_descr": "Privacy Policy",
         "title": "Privacy Policy",
-        "order": "1",
+        "order": "2",
         "socialSharingUrl": ""
       },
       "components": [
@@ -8257,7 +8257,7 @@
       "settings": {
         "meta_descr": "Web Site Maker Description",
         "title": "Page 6",
-        "order": "3"
+        "order": "4"
       },
       "components": [
         {
@@ -9033,7 +9033,7 @@
       "settings": {
         "meta_descr": "Web Site Maker Description",
         "title": "Page 7",
-        "order": "2"
+        "order": "3"
       },
       "components": [
         {
