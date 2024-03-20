@@ -25,7 +25,7 @@
         "display4Size": "1.1",
         "isRoundedButtons": false,
         "isAnimatedOnScroll": false,
-        "isScrollToTopButton": false
+        "isScrollToTopButton": true
       },
       "additionalSetColors": [
         "#c443f4",
