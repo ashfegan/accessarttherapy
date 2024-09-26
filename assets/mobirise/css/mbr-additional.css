@@ -849,7 +849,7 @@ section.lazy-placeholder:after {
   transition: 0.3s all !important;
   min-width: auto;
   background: #ffffff;
-  background: rgba(255, 255, 255, 0.8) !important;
+  background: rgba(255, 255, 255, 0.9) !important;
 }
 .cid-u34FVV0EbH .nav-item:focus,
 .cid-u34FVV0EbH .nav-link:focus {
@@ -1086,7 +1086,7 @@ section.lazy-placeholder:after {
 }
 .cid-u34FVV0EbH .navbar-dropdown {
   padding: 0;
-  background: rgba(255, 255, 255, 0.8) !important;
+  background: rgba(255, 255, 255, 0.9) !important;
   position: fixed;
 }
 .cid-u34FVV0EbH .opacityScroll {
@@ -1177,8 +1177,8 @@ section.lazy-placeholder:after {
     border-radius: 1.5rem;
     background: #ffffff;
     opacity: 1;
-    border-color: rgba(255, 255, 255, 0.8) !important;
-    background: rgba(255, 255, 255, 0.8) !important;
+    border-color: rgba(255, 255, 255, 0.9) !important;
+    background: rgba(255, 255, 255, 0.9) !important;
     backdrop-filter: blur(8px);
   }
   .cid-u34FVV0EbH .navbar-nav .nav-item .nav-link::after {
@@ -1774,8 +1774,8 @@ section.lazy-placeholder:after {
   text-align: left;
 }
 .cid-upuH6LfVOa {
-  padding-top: 5rem;
-  padding-bottom: 5rem;
+  padding-top: 10rem;
+  padding-bottom: 10rem;
   background-color: #ffffff;
 }
 .cid-upuH6LfVOa .mbr-fallback-image.disabled {
@@ -2194,7 +2194,7 @@ section.lazy-placeholder:after {
   transition: 0.3s all !important;
   min-width: auto;
   background: #ffffff;
-  background: rgba(255, 255, 255, 0.8) !important;
+  background: rgba(255, 255, 255, 0.9) !important;
 }
 .cid-u34FVV0EbH .nav-item:focus,
 .cid-u34FVV0EbH .nav-link:focus {
@@ -2431,7 +2431,7 @@ section.lazy-placeholder:after {
 }
 .cid-u34FVV0EbH .navbar-dropdown {
   padding: 0;
-  background: rgba(255, 255, 255, 0.8) !important;
+  background: rgba(255, 255, 255, 0.9) !important;
   position: fixed;
 }
 .cid-u34FVV0EbH .opacityScroll {
@@ -2522,8 +2522,8 @@ section.lazy-placeholder:after {
     border-radius: 1.5rem;
     background: #ffffff;
     opacity: 1;
-    border-color: rgba(255, 255, 255, 0.8) !important;
-    background: rgba(255, 255, 255, 0.8) !important;
+    border-color: rgba(255, 255, 255, 0.9) !important;
+    background: rgba(255, 255, 255, 0.9) !important;
     backdrop-filter: blur(8px);
   }
   .cid-u34FVV0EbH .navbar-nav .nav-item .nav-link::after {
