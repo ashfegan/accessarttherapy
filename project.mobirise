@@ -8,7 +8,7 @@
       "styling": {
         "primaryColor": "#025123",
         "secondaryColor": "#04455a",
-        "successColor": "#f79806",
+        "successColor": "#06a448",
         "infoColor": "#ffed39",
         "warningColor": "#025123",
         "dangerColor": "#f13ff8",
@@ -28,13 +28,13 @@
         "isScrollToTopButton": true
       },
       "additionalSetColors": [
+        "#06a448",
         "#fa943e",
         "#f79806",
         "#023d2b",
         "#023316",
         "#025123",
-        "#013316",
-        "#f87507"
+        "#013316"
       ]
     },
     "path": "@PROJECT_PATH@",
