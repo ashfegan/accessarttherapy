@@ -1502,6 +1502,8 @@ section.lazy-placeholder:after {
   background-color: #ffffff;
 }
 .cid-vanX8NH5Cg {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
   background-color: #ffffff;
 }
 .cid-vanX8NH5Cg .mbr-fallback-image.disabled {
@@ -1612,6 +1614,9 @@ section.lazy-placeholder:after {
     -webkit-justify-content: center;
     justify-content: center;
   }
+}
+.cid-vaocZerdTV .copyright > p {
+  text-align: left;
 }
 .cid-u6Zqte6NjG {
   padding-top: 6rem;
