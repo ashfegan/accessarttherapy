@@ -159,7 +159,7 @@
     "uniqCompNum": 880,
     "versionPublish": "5.9.13",
     "screenshot": "screenshot.png",
-    "favicon": "@PROJECT_PATH@/assets/images/circle-logo-128x160_1.png",
+    "favicon": "@PROJECT_PATH@/assets/images/circle-logo-128x128.png",
     "noImageResize": "",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
     "robotsSwitcher": "on",
