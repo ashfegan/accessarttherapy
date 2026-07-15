@@ -1238,6 +1238,20 @@ section.lazy-placeholder:after {
   object-fit: cover;
   min-height: 1px;
 }
+.cid-vpsAbmVBJ0 {
+  background: #ffffff;
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background: linear-gradient(0deg, #ffffff, #ffffff);
+}
+.cid-vpsAbmVBJ0 .video-block {
+  margin: auto;
+}
+@media (max-width: 768px) {
+  .cid-vpsAbmVBJ0 .video-block {
+    width: 100% !important;
+  }
+}
 .cid-vao3VJtBJa {
   padding-top: 5rem;
   padding-bottom: 5rem;
