@@ -1297,13 +1297,29 @@ section.lazy-placeholder:after {
 .cid-vao00jFIJe .mbr-section-title {
   text-align: left;
 }
-.cid-vzZQpTmF8t {
-  padding-top: 60px;
-  padding-bottom: 30px;
+.cid-vA0AM5z1I5 {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
   background-color: #ffffff;
 }
-.cid-vzZQpTmF8t .mbr-section-subtitle {
-  color: #232323;
+.cid-vA0AM5z1I5 .mbr-overlay {
+  background-color: #ffffff;
+  opacity: 0.4;
+}
+.cid-vA0AM5z1I5 form .mbr-section-btn {
+  text-align: center;
+  width: 100%;
+}
+.cid-vA0AM5z1I5 form .mbr-section-btn .btn {
+  display: inline-flex;
+}
+@media (max-width: 991px) {
+  .cid-vA0AM5z1I5 form .mbr-section-btn .btn {
+    width: 100%;
+  }
+}
+.cid-vA0AM5z1I5 .content-head {
+  max-width: 800px;
 }
 .cid-vtqSU9WV1q {
   padding-top: 45px;
